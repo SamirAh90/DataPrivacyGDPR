@@ -1,0 +1,14 @@
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb 4, labbgrupp 32\DataPrivacyGDPR\DataPrivacyGDPR\bin\Debug\net8.0\DataPrivacyGDPR.exe
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb 4, labbgrupp 32\DataPrivacyGDPR\DataPrivacyGDPR\bin\Debug\net8.0\DataPrivacyGDPR.deps.json
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb 4, labbgrupp 32\DataPrivacyGDPR\DataPrivacyGDPR\bin\Debug\net8.0\DataPrivacyGDPR.runtimeconfig.json
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb 4, labbgrupp 32\DataPrivacyGDPR\DataPrivacyGDPR\bin\Debug\net8.0\DataPrivacyGDPR.dll
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb 4, labbgrupp 32\DataPrivacyGDPR\DataPrivacyGDPR\bin\Debug\net8.0\DataPrivacyGDPR.pdb
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb 4, labbgrupp 32\DataPrivacyGDPR\DataPrivacyGDPR\obj\Debug\net8.0\DataPrivacyGDPR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb 4, labbgrupp 32\DataPrivacyGDPR\DataPrivacyGDPR\obj\Debug\net8.0\DataPrivacyGDPR.AssemblyInfoInputs.cache
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb 4, labbgrupp 32\DataPrivacyGDPR\DataPrivacyGDPR\obj\Debug\net8.0\DataPrivacyGDPR.AssemblyInfo.cs
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb 4, labbgrupp 32\DataPrivacyGDPR\DataPrivacyGDPR\obj\Debug\net8.0\DataPrivacyGDPR.csproj.CoreCompileInputs.cache
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb 4, labbgrupp 32\DataPrivacyGDPR\DataPrivacyGDPR\obj\Debug\net8.0\DataPrivacyGDPR.dll
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb 4, labbgrupp 32\DataPrivacyGDPR\DataPrivacyGDPR\obj\Debug\net8.0\refint\DataPrivacyGDPR.dll
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb 4, labbgrupp 32\DataPrivacyGDPR\DataPrivacyGDPR\obj\Debug\net8.0\DataPrivacyGDPR.pdb
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb 4, labbgrupp 32\DataPrivacyGDPR\DataPrivacyGDPR\obj\Debug\net8.0\DataPrivacyGDPR.genruntimeconfig.cache
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Labb 4, labbgrupp 32\DataPrivacyGDPR\DataPrivacyGDPR\obj\Debug\net8.0\ref\DataPrivacyGDPR.dll
