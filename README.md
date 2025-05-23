@@ -1,6 +1,3 @@
-Här är en professionellt formulerad README.md för ditt GitHub-projekt, baserat på texten du gav:
-
----
 
 # Bevisinsamling mot olaglig datainsamling (C#)
 
