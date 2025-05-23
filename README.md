@@ -2,7 +2,7 @@ Här är en professionellt formulerad README.md för ditt GitHub-projekt, basera
 
 ---
 
-# Lab 4 – Bevisinsamling mot olaglig datainsamling (C#)
+# Bevisinsamling mot olaglig datainsamling (C#)
 
 ## 📌 Introduktion
 
